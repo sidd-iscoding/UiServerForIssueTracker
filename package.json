@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon -w uiserver.js uiserver.js",
+    "start": "nodemon -w UiServer.js UiServer.js",
     "compile": "babel src --out-dir public",
     "watch": "babel src --out-dir public --watch --verbose"
   },
