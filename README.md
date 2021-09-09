@@ -11,6 +11,6 @@ The project gives a platform for issue creation, assign issues to people, track 
 This repository is part of the Issue tracking System as the whole system is broken down into two parts representing two differnt functions done using two different servers.
 One that serve static files as content coded in this repository named as UiServerForIssueTracker and other that host just the API using the repository called ApiServerForIssueTracker. 
 
-## Installation
+
 
 
