@@ -1,1 +1,3 @@
-# UiServerForIssueTracker for handling and serving static files
+##Objectives of the repository
+
+UiServerForIssueTracker for handling and serving static files
